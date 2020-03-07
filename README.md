@@ -40,4 +40,5 @@ the smaller dimension of the input image. Default: 3
 # Using Roberts operator: 
 ![Original Image](Results/outRoberts.jpg?raw=true "Title")
 
-
+# Performance Analysis:
+![performance analysis](Results/performance.png?raw=true "Title")
