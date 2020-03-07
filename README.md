@@ -1,4 +1,4 @@
-# Harris-Corner-Detection
+# Harris-Corner-Detection using Sobel and Roberts Cross operator
 # Installation:
 # Requirements:
 - OpenCV 4.0.0 [http://opencv.org/]
