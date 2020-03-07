@@ -12,7 +12,7 @@ $ tar -zxvf harrisCornerDetect.tar.gz
 - cd Debug
 - make clean
 - make all
-It will build the binary execution file in the Debug directory. To run the binary file please follow the
+- It will build the binary execution file in the Debug directory. To run the binary file please follow the
 following instructions.
 # Execution:
 In the Debug directory,
