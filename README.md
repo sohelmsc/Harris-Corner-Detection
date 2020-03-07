@@ -1,10 +1,10 @@
 # Harris-Corner-Detection
-Installation:
+#Installation:
 Requirements:
--- OpenCV 4.0.0 [http://opencv.org/]
--- g++ 7.4.0
--- OS Linux
-How to build:
+- OpenCV 4.0.0 [http://opencv.org/]
+- g++ 7.4.0
+- OS Linux
+#How to build:
 - Download the software package.
 - Untar the file.
 $ tar -zxvf harrisCornerDetect.tar.gz
