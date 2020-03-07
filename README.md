@@ -1,10 +1,10 @@
 # Harris-Corner-Detection
-#Installation:
-Requirements:
+# Installation:
+# Requirements:
 - OpenCV 4.0.0 [http://opencv.org/]
 - g++ 7.4.0
 - OS Linux
-#How to build:
+# How to build:
 - Download the software package.
 - Untar the file.
 $ tar -zxvf harrisCornerDetect.tar.gz
@@ -14,7 +14,7 @@ $ tar -zxvf harrisCornerDetect.tar.gz
 - make all
 It will build the binary execution file in the Debug directory. To run the binary file please follow the
 following instructions.
-Execution:
+# Execution:
 In the Debug directory,
 ./harrisCornerDetect jpg-file [Gaussian-Std NMS-threshold NMS-window-size NMS-window-separation
 Grad-sum-window-size gradient-type]
