@@ -16,8 +16,8 @@ It will build the binary execution file in the Debug directory. To run the binar
 following instructions.
 # Execution:
 In the Debug directory,
-./harrisCornerDetect jpg-file [Gaussian-Std NMS-threshold NMS-window-size NMS-window-separation
-Grad-sum-window-size gradient-type]
+- ./harrisCornerDetect image-file Gaussian-Std NMS-threshold NMS-window-size NMS-window-separation
+Grad-sum-window-size gradient-type 
 - Image-file (string): Complete path of the jpg image file (color or grayscale).
 Following input parameters are optional.
 - Gaussian Std (float): Standard deviation of the Gaussian filter. The value must be greater than zero.
