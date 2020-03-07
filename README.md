@@ -5,9 +5,6 @@
 - g++ 7.4.0
 - OS Linux
 # How to build:
-- Download the software package.
-- Untar the file.
-$ tar -zxvf harrisCornerDetect.tar.gz
 - cd harrisCornerDetect
 - cd Debug
 - make clean
