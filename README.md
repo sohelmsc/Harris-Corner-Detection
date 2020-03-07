@@ -31,3 +31,13 @@ summation of products. The value must be greater than 1 and odd number and must 
 the smaller dimension of the input image. Default: 3
 - gradient type (int): 1 is for Sobel and 2 is for Roberts gradient. Default: Sobel.Output:
 - The updated image (i.e., out.jpg) with corner locations will be saved in the debug directory.
+
+# Results:
+# Original image: 
+![Original Image](Results/original.jpg?raw=true "Title")
+# Using Sobel operator: 
+![Original Image](Results/outSobel.jpg?raw=true "Title")
+# Using Roberts operator: 
+![Original Image](Results/outRoberts.jpg?raw=true "Title")
+
+
