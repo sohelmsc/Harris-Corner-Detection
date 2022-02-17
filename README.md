@@ -12,7 +12,7 @@
 - It will build the binary execution file in the Debug directory. To run the binary file please follow the
 following instructions.
 # Execution:
-In the Debug directory,
+In the Debug directory 
 - ./harrisCornerDetect image-file Gaussian-Std NMS-threshold NMS-window-size NMS-window-separation
 Grad-sum-window-size gradient-type 
 - Image-file (string): Complete path of the jpg image file (color or grayscale).
